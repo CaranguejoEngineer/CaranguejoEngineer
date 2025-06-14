@@ -30,7 +30,7 @@ Desde criança sou apaixonado por tecnologia e computadores em geral, e com 17 a
         src="https://custom-icon-badges.demolab.com/badge/albuquerque.caio2@gmail.com-purple?style=for-the-badge&logo=mention&logoColor=white">
     <a href="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white">
     <img
-        src="https://custom-icon-badges.demolab.com/badge/pdecaranguejo-red.svg?logo=discordlogo123&logoColor=white">
+        height="30" src="https://custom-icon-badges.demolab.com/badge/pdecaranguejo-red.svg?logo=discordlogo123&logoColor=white">
 
 ---
 
